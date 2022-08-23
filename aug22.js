@@ -29,5 +29,5 @@ function longerThan(minimumLength) {
 //test #2
 let minimumLength = 3;
 console.log(
-  ["this", "is", "a", "string", "array"].filter(longerThan(minimumLength))
+  ["hello", "I", "am", "tiger", "hong"].filter(longerThan(minimumLength))
 );
